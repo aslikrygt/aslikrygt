@@ -11,6 +11,10 @@
     <img src="https://skillicons.dev/icons?i=mysql,postgres,git,bootstrap,postman,eclipse,figma,vscode,py,maven" />
   </a>
 </p>
+<div align="center">
+	
 
-<img src="https://github.com/aslikrygt/aslikrygt/blob/main/giphy.gif" height="170">
+<img src="https://github.com/aslikrygt/aslikrygt/blob/main/giphy.gif" height="170"/>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920"/>
+
+<div>
